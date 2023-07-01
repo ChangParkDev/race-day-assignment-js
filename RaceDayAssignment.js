@@ -1,8 +1,8 @@
-let raceNumber = Math.floor(Math.random() * 1000); //Genereate a random race number
+let raceNumber = Math.floor(Math.random() * 1000); // Generate a random race number
 
-const registeredEarly = false; //Set a variable for registration status (change as needed)
+const registeredEarly = false; // Set a variable for registration status (change as needed)
 
-const age = 19; //Set a variable for runner's age (change as needed)
+const age = 19; // Set a variable for runner's age (change as needed)
 
 // Check if the runner is an adult and registered early
 if (age >= 18 && registeredEarly) {

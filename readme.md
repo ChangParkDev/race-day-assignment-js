@@ -8,7 +8,7 @@ This is a JavaScript project for the Race Day assignment. The assignment involve
 
 - **Race Number Assignment:** Each participant is assigned a unique race number based on their age and registration time.
 
-- **Start Time** Participants are assigned a start time based on their age and registration time, ensuring a fair race.
+- **Start Time:** Participants are assigned a start time based on their age and registration time, ensuring a fair race.
 <br></br>
 ## Technologies Used 
 - **JavaScript:** The project is implemented using JavaScript programming language.
